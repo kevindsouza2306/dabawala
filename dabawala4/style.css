@@ -1,0 +1,78 @@
+@import "http://fonts.googleapis.com/css?family=Fauna+One|Muli";
+#mainform{
+width:100%;
+margin:20px auto;
+padding-top:20px;
+
+}
+#mainform h2{
+width:100%;
+float:left;
+text-align:center;
+margin-top:35px
+}
+.innerdiv{
+width:50%;
+float:left;
+margin-top:20px;
+}
+form{
+background-color:#fff;
+color:#123456;
+
+width:500px;
+margin:50px 250px 0 50px;
+float:left;
+height:600px;
+
+}
+h3{
+margin-top:0;
+margin-left:50px;
+text-align:left;
+width:100%;
+height:50px;
+border-bottom:dashed;
+border-width:thin;
+}
+/*input{
+width:250px;
+height:30px;
+margin-top:10px;
+border-radius:3px;
+padding:2px;
+box-shadow:0 1px 1px 0 #a9a9a9;
+margin:10px
+}*/
+input[type=button]{
+background-color:#CC3300;
+border:1px solid #fff;
+font-family:'Fauna One',serif;
+font-weight:700;
+font-size:18px;
+color:#fff;
+width:30%;
+height:40px;
+margin-left:105px;
+margin-top:30px
+}
+span{
+color:green
+}
+#myForm div{
+margin-top:10x;
+color:red;
+font-size:14px
+}
+
+#login_form
+{
+float:right;
+width: 300px;
+padding-top:20px;
+padding-right:150px;
+}
+.cart_area
+{
+float:right;
+}
